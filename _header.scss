@@ -1,0 +1,25 @@
+header{ 
+    
+    text-align: center;
+    padding: 20px;
+    background: rgb(63,94,251);
+background: linear-gradient(90deg, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+    nav{
+        padding: auto;color: greenyellow;
+        ul{
+            border-radius: 4px; color: aquamarine;
+            a{
+                text-decoration: overline; color: chocolate;
+                &:hover{
+                    text-decoration: underline bisque;
+                    @extend %botones;
+                }
+
+            }
+        }
+    }
+   
+        
+    } 
+         
+   

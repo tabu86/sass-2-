@@ -1,0 +1,9 @@
+@mixin insane {
+    border: 2px solid burlywood;
+    color: black;
+}
+
+.poten{
+    @include insane ();
+    
+}

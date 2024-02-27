@@ -1,0 +1,15 @@
+{
+  "name": "sass-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ldrs": "^1.0.1",
+    "motion-ui": "^2.0.5"
+  }
+}
